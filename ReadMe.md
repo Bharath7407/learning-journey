@@ -1,1 +1,1 @@
-My Goal is to become a proper Java Developer!
+My Goal is to become a Full Stack Java Developer!
